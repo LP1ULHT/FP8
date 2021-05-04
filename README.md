@@ -24,7 +24,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 	
 	d)	Um vetor de estruturas que guarde para 10 automóveis as estruturas definidas em b). Inicialize devidamente o 6º automóvel.
 	
-	e)	Um ponteiro para a estrutura definida em a). Aponte-o para o 2ºmês e escreva o seu nome através do ponteiro.
+	e)	Um ponteiro para a estrutura definida em a). Aponte-o para o 2ºmês e escreva na consola o seu nome através do ponteiro.
 	
 	f)	Um ponteiro para a estrutura definida em b). Aponte-o para o 6º automóvel e leia o seu ano.
 	
