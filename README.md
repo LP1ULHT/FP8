@@ -32,6 +32,17 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 	
 	h)	Um enumerado que tenha como opções os meses do ano, tendo como valores os números dos meses respetivos
 
+1.1.    Considere que tem um ficheiro com notas de alunos duma turma. Escreva um programa que identifique o melhor aluno e imprima os resultados. 
+Como input terá:
+* ficheiro de texto notas_turma.txt em que, em cada linha tem o nome e a nota de um aluno. 
+* As turmas não têm mais do que 30 alunos.
+Desenvolva um programa que:
+* defina o tipo Aluno adequado para armazenar o nome e nota de cada aluno
+* defina um vetor de Alunos
+* Preencha o vetor com os dados do ficheiro.
+* Indique qual foi o melhor aluno.
+* Imprima uma frase por aluno, do tipo "Nuno teve 13 valores".
+
 2.	Desenvolva um programa que permita guardar os seguintes dados referentes a um Equipamento: 
 - Número de Equipamento: deve ser gerado automaticamente pelo sistema somando 1 ao número atribuído anteriormente.  
 - Designação: string com um máximo de 255 caracteres.
