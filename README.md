@@ -36,6 +36,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 Como input terá:
 * ficheiro de texto notas_turma.txt em que, em cada linha tem o nome e a nota de um aluno. 
 * As turmas não têm mais do que 30 alunos.
+
 Desenvolva um programa que:
 * defina o tipo Aluno adequado para armazenar o nome e nota de cada aluno
 * defina um vetor de Alunos
