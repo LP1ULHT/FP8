@@ -1,8 +1,8 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-*Linguagens de Programação I - 2019/2020*
+*Linguagens de Programação I - 2021/2022*
 
-# Ficha de Exercícios - 8: estruturas
+# Ficha de Exercícios : Estruturas
 
 Na resolução destes exercícios deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
 
